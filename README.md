@@ -12,6 +12,6 @@
 * [form Hakers-Poulette](http://localhost/Hakers-Poulette/)
 
 # Public links
-Huroku
+Huroku (Soon a usable link)
 
 
